@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background-color: burlywood;
+}
+.ant-layout {
+	min-width: 360px !important;
+}
+
+.padded-row {
+	padding: 1rem;
+}
+
+.btnRegular {
+	width: 200px;
+}
+
+.list-container {
+	background-color: cornflowerblue;
+}
